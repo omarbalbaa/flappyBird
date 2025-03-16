@@ -36,8 +36,8 @@ gameOverImg.src = "./Images/flappy-gameover.png";
 let bird = {
     x: 50,
     y: boardHeight / 2,
-    width: 40,
-    height: 30
+    width: 50,
+    height: 40
 }
 
 let velocityY = 0;
